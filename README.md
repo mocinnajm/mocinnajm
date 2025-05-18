@@ -1,5 +1,14 @@
 # 💫 About Me:
-Soy un programador junior apasionado por la tecnología, actualmente  estoy cursando grado superior desarrollo de aplicaciones multiplataforma. Aunque no tengo experiencia laboral formal, he adquirido habilidades fundamentales en lenguajes como Python, Java y JavaScript a través de proyectos académicos y personales. Me destaco por mi capacidad de aprendizaje rápido, resolución de problemas y trabajo en equipo. Estoy ansioso por aplicar mis conocimientos en un entorno profesional, contribuir con soluciones innovadoras y seguir desarrollándome como desarrollador
+💻 Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM) con interés en el desarrollo de software, apps  etc .
+Me considero una persona responsable, proactiva y con orientación al logro.
+Destaco por mi capacidad de adaptación, organización y trabajo en equipo.
+He desarrollado proyectos académicos en programación y bases de datos.
+Cuento con experiencia laboral en Amazon, IKEA y Kiabi como mozo de almacén.
+Estas experiencias reforzaron mi disciplina, compromiso y cooperación.
+Tengo habilidades en liderazgo, comunicación y pensamiento analítico.
+Busco seguir aprendiendo y creciendo profesionalmente en el sector tecnológico.
+Estoy abierto a prácticas, empleos junior y proyectos colaborativos.
+📩 Disponible para conectar y explorar nuevas oportunidades.
 
 
 ## 🌐 Socials:
