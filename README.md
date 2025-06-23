@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM) con interés en el desarrollo de software, apps  etc .
+💻 Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) con interés en el desarrollo de software, apps  etc .
 Me considero una persona responsable, proactiva y con orientación al logro.
 Destaco por mi capacidad de adaptación, organización y trabajo en equipo.
 He desarrollado proyectos académicos en programación y bases de datos.
